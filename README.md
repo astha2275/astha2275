@@ -1,10 +1,11 @@
 # ✨ Just Vibes & Code  
 
-hii, I am Astha...
+### Hi, I’m Astha!  
 A little bit of everything—tech, creativity, and unfiltered chaos.  
 🎧 Probably lost in music or overthinking life like it’s a puzzle.  
 
 💡 Figuring things out, one day at a time. Stay tuned!  
+
 
 
 ---
