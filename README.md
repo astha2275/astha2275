@@ -5,8 +5,6 @@ A little bit of everything—tech, creativity, and unfiltered chaos.
 
 💡 Figuring things out, one day at a time. Stay tuned!  
 
-
-
 ---
 
 ## 🚀 My Tech Stack  
@@ -35,6 +33,8 @@ A little bit of everything—tech, creativity, and unfiltered chaos.
   
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=astha2275&label=Profile%20Views&color=ff69b4&style=flat)  
+![Tech Stack](https://img.shields.io/badge/Code-Python%20%7C%20JavaScript%20%7C%20C%20%7C%20HTML%20%7C%20CSS-blue?style=flat)  
 
 ## 🔗 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/astha-tripathi-82a2a9289/)  
