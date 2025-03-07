@@ -1,8 +1,7 @@
 # ✨ Just Vibes & Code  
 
 ### Hi, I’m Astha!  
-A little bit of everything—tech, creativity, and unfiltered chaos.  
-🎧 Probably lost in music or overthinking life like it’s a puzzle.  
+A little bit of everything—tech, creativity, and unfiltered chaos.    
 
 💡 Figuring things out, one day at a time. Stay tuned!  
 
@@ -30,8 +29,10 @@ A little bit of everything—tech, creativity, and unfiltered chaos.
 
 
 ## 📈 GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+![Astha's GitHub stats](https://github-readme-stats.vercel.app/api?username=astha2275&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=astha2275&layout=compact&theme=radical)
+  
 
 ---
 
@@ -39,9 +40,4 @@ A little bit of everything—tech, creativity, and unfiltered chaos.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/astha-tripathi-82a2a9289/)  
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:asthatripathii404@gmail.com)  
 
-
-**if (hungry) {**  
-&nbsp;&nbsp;**eat();**  
-**} else {**  
-&nbsp;&nbsp;**code();**  
-**}** 🍕💻  
+ 
